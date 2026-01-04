@@ -1,0 +1,7 @@
+{
+  "name": "Sri Mookambika Agro Foods LLP web",
+  "description": "A professional business website for a leading Indian gherkin and vegetable processing company, showcasing their sustainable farming model, global export capabilities, and certified facility.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
